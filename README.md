@@ -1,1 +1,1 @@
-# C-digo-del-Cambio-Movilizaci-n-Juvenil
+Repositorio con datos y análisis sobre cómo la juventud se moviliza en momentos políticos clave, inspirados por José Ottavis.
